@@ -7,16 +7,20 @@
 ## Usage
 
 <ol>
-Steps to reproduce:
-Setup
+Steps to reproduce:       
+
+Setup       
+
 <li>navigate to desired folder</li>
-<li> git init - this creates the file (hidden) where the commit IDs are saved.</li>
+<li> git init - this creates the file (hidden) where the commit IDs are saved.</li>     
+
 Master Branch
+
 <li> Create file for “init” commit. (By default Master)</li>
 <li>git commit -am “commit #2”</li>
-<li>git commit -am “commit #3”</li>
+<li>git commit -am “commit #3”</li>        
 
-Feature Branch
+Feature Branch    
 
 <li>git commit -am “commit #5”</li>
 <li>git commit -am “commit #6”</li>
