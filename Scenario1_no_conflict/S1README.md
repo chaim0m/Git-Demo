@@ -8,20 +8,20 @@
 
 <ol>
 Steps to reproduce:       
-              
+  </br>             
 Setup       
-           
+  </br>          
 <li>navigate to desired folder</li>
 <li> git init - this creates the file (hidden) where the commit IDs are saved.</li>         
-                                   
+  </br>                                  
 Master Branch
-
+ </br>
 <li> Create file for “init” commit. (By default Master)</li>
 <li>git commit -am “commit #2”</li>
 <li>git commit -am “commit #3”</li>        
       </br>
 Feature Branch    
-
+ </br>
 <li>git commit -am “commit #5”</li>
 <li>git commit -am “commit #6”</li>
 <li>git checkout master (now on master)</li>
