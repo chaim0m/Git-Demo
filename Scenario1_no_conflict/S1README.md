@@ -7,15 +7,15 @@
 ## Usage
 
 <ol>
-Steps to reproduce:                  
-<div style="padding: 4px">Setup</div>              
+<div>Steps to reproduce: </div><br>                  
+<div style="padding: 4px">Setup</div>   <br>           
 <li>navigate to desired folder</li>
 <li> git init - this creates the file (hidden) where the commit IDs are saved.</li>         
  <div style="padding: 4px">Master Branch</div>                              
 <li> Create file for “init” commit. (By default Master)</li>
 <li>git commit -am “commit #2”</li>
 <li>git commit -am “commit #3”</li>        
-<div style="padding: 4px">Feature Branch</div>     
+<div style="padding: 4px">Feature Branch</div>     <br> 
 <li>git commit -am “commit #5”</li>
 <li>git commit -am “commit #6”</li>
 <li>git checkout master (now on master)</li>
