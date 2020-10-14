@@ -6,9 +6,9 @@
 
 ## Usage
 
-```sh
-Clone the repo and then follow the instructions in any one of the readme\'s inside the different folders
-```
+<p>
+Clone the repo and then follow the instructions in any one of the readme's inside the different folders
+<p>
 
 ## Author
 
