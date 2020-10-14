@@ -7,10 +7,8 @@
 ## Usage
 
 <ol>
-Steps to reproduce:       
-  </br>             
-Setup       
-  </br>          
+Steps to reproduce:                  
+<div>Setup</div>              
 <li>navigate to desired folder</li>
 <li> git init - this creates the file (hidden) where the commit IDs are saved.</li>         
   </br>                                  
