@@ -22,9 +22,9 @@
 <li>git commit -am “commit #5”</li>
 <li>git commit -am “commit #6”</li>
 <li>git checkout master (now on master)</li>
-<li>git rebase feature</li>
-<li> git reset <ID> —hard</li>
 <li>git merge feature</li>
+<li> git reset <ID> —hard</li>
+<li>git rebase feature</li>
 </ol>
 <br/>
 ## Author
