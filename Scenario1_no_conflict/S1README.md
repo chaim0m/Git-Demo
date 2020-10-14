@@ -6,21 +6,22 @@
 
 ## Usage
 
-<ul>
-<strong>Steps to reproduce:</stong>
-<li>1) navigate to desired folder</li>
-<li>2) git init - this creates the file (hidden) where the commit IDs are saved.</li>
-<li>3) Create file for “init” commit. (By default Master)</li>
-<li>4)git commit -am “commit #2”</li>
-<li>5)git commit -am “commit #3”</li>
-<u>Feature</u>
-<li>6)git commit -am “commit #5”</li>
-<li>7)git commit -am “commit #6”</li>
-<li>8)git checkout master (now on master)</li>
-<li>9)git rebase feature</li>
-<li>10) git reset <ID> —hard</li>
-<li>11)git merge feature</li>
-</ul>
+<ol>
+<strong>Steps to reproduce:</stong><br/>
+<li>navigate to desired folder</li>
+<li> git init - this creates the file (hidden) where the commit IDs are saved.</li>
+<li> Create file for “init” commit. (By default Master)</li>
+<li>git commit -am “commit #2”</li>
+<li>git commit -am “commit #3”</li>
+<br/>
+<u>Feature</u><br/>
+<li>git commit -am “commit #5”</li>
+<li>git commit -am “commit #6”</li>
+<li>git checkout master (now on master)</li>
+<li>git rebase feature</li>
+<li> git reset <ID> —hard</li>
+<li>git merge feature</li>
+</ol>
 ## Author
 
 👤 **Chaim Finson**
