@@ -7,7 +7,7 @@
 ## Usage
 
 <p>
-Clone the repo and then follow the instructions in any one of the readme's inside the different folders. Comparing the commit IDs will give an understanding of what is happening with ```git merge``` vs. ```git rebase```
+Clone the repo and then follow the instructions in any one of the readme's inside the different folders. Comparing the commit IDs will give an understanding of what is happening with <code>git merge</code> vs. <code>git rebase</code>
 <p>
 
 ## Author
